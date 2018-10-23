@@ -1,7 +1,7 @@
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 [![License][license-image]][license-url]
 
-# AMViewFinder
+# AMViewfinder
 An iOS library that takes care of displaying a viewfinder
 
 # Installation
@@ -9,7 +9,7 @@ An iOS library that takes care of displaying a viewfinder
 ## Carthage
 1. Add the following to your Cartfile
 
-        github "aboodmufti/AMViewFinder"
+        github "aboodmufti/AMViewfinder"
         
 2. Run `carthage update`
 3. Add the framework to your project, as defined [here](https://github.com/Carthage/Carthage#if-youre-building-for-ios-tvos-or-watchos)
