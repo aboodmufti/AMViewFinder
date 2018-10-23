@@ -4,9 +4,9 @@
 # AMViewfinder
 An iOS library that takes care of displaying a viewfinder
 
-# Installation
+## Installation
 
-## Carthage
+### Carthage
 1. Add the following to your Cartfile
 
         github "aboodmufti/AMViewfinder"
@@ -14,7 +14,7 @@ An iOS library that takes care of displaying a viewfinder
 2. Run `carthage update`
 3. Add the framework to your project, as defined [here](https://github.com/Carthage/Carthage#if-youre-building-for-ios-tvos-or-watchos)
 
-# Usage:
+## Usage:
 
 ```Swift
 lazy var cameraViewfinder: Viewfinder = {
@@ -57,7 +57,7 @@ lazy var previewImageView: UIImageView = {
 
 ```
 
-# Contribute
+## Contribute
 Contributions to AMConstraints are more than welcome, check the `LICENSE` file for more info.
 
 
